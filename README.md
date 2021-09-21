@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaseYin
 - 👀 I’m interested in full-stack development.
-- �🤦🏾‍♂️ I’m currently learning Software engineering in JIALIDUN university.
+- 🤦🏾‍♂️ I’m currently learning Software engineering in JIALIDUN university.
 - 💞️ I’m studying React.js and relevant stuff.
 - 📫 yxf993993@yahoo.com
 - 💜 Go Lakers
