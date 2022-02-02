@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ChaseYin
-- 👀 I’m interested in full-stack development.
-- 🤦🏾‍♂️ I’m currently learning Software engineering in JIALIDUN university.
-- 💞️ I’m studying React.js and relevant stuff.
-- 📫 yxf993993@yahoo.com
-- 💜 Go Lakers
+- 😅 I’m interested in getting a job. 
+- 💜 8&24 4ever.
 
 <!---
 ChaseYin/ChaseYin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
