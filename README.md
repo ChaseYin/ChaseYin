@@ -4,7 +4,8 @@
 
 
 <a href="https://github.com/biaochenxuying/split">
-  <img alt="biaochenxuying" src="https://github.com/ChaseYin/ChaseYin/blob/main/IMG_3642%202.jpg" />
+  <img alt="RIP" src="https://s1.ax1x.com/2022/03/09/b27y7V.jpg" />
+
 </a>
 
 ## Thank you for the visit.
