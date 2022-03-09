@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/biaochenxuying/split">
-  <img alt="RIP" src="https://s1.ax1x.com/2022/03/09/b2HHrn.jpg" />
+  <img width='300px' height='300px' alt="RIP" src="https://s1.ax1x.com/2022/03/09/b2HHrn.jpg" />
 
 </a>
 
