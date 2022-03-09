@@ -2,6 +2,11 @@
 - 😅 I’m interested in getting a job. 
 - 💜 8&24 4ever.
 
+
+<a href="https://github.com/biaochenxuying/split">
+  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=split&show_owner=true" />
+</a>
+
 ## Thank you for the visit.
 
 ![](http://profile-counter.glitch.me/ChaseYin/count.svg)
