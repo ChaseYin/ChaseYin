@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/biaochenxuying/split">
-  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=split&show_owner=true" />
+  <img alt="biaochenxuying" src="https://github.com/ChaseYin/ChaseYin/blob/main/IMG_3642%202.jpg" />
 </a>
 
 ## Thank you for the visit.
