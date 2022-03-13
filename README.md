@@ -3,10 +3,12 @@
 - 💜 8&24 4ever.
 
 
-<a href="https://github.com/biaochenxuying/split">
+
+<div style="align: center">
   <img align='center' width='600px' height='700px' margin='0 auto' alt="RIP" src="https://s1.ax1x.com/2022/03/09/b2HHrn.jpg" />
 
-</a>
+</div>
+
 
 
 ## Thank you for the visit.
