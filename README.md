@@ -5,7 +5,7 @@
 
 
 <div style="align: center">
-  <img align='center' width='600px' height='700px' margin='0 auto' alt="RIP" src="https://s1.ax1x.com/2022/03/09/b2HHrn.jpg" />
+  <img width='600px' height='700px' margin='0 auto' alt="RIP" src="https://s1.ax1x.com/2022/03/09/b2HHrn.jpg" />
 
 </div>
 
