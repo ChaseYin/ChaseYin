@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaseYin
-- 😅 I’m interested in getting a job. 
+- 😅 I’m interested in getting a job. (already have one😄)
 - 💜 8&24 4ever.
 
 
