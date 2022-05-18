@@ -13,7 +13,7 @@
 
 ## Thank you for the visit.
 
-![](http://profile-counter.glitch.me/ChaseYin/count.svg)
+<!-- ![](http://profile-counter.glitch.me/ChaseYin/count.svg) -->
 
 Please give a Star if you like.
 
